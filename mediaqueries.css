@@ -1,0 +1,10 @@
+@media screen and (max-width:1200px){
+    #ds-navbar {
+        display: none;
+        position: fixed;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+    
+}
